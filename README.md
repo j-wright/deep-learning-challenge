@@ -1,5 +1,5 @@
 # Overview
-## The purpose of this analysis to help Alphabet Soup create a model that can predict whether or not an applicant will succeed. The model used will be a deep learning model with multiple neurons, layers, and activation functions.
+## The purpose of this analysis is to help Alphabet Soup create a model that can predict whether or not an applicant will succeed. The model used will be a deep learning model with multiple neurons, layers, and activation functions.
 ## Data Preprocessing
 ### What variable(s) are the target(s) for your model?
 - IS_SUCCESSFUL
